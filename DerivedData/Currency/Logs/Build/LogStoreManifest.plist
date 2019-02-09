@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>0FC7FAD8-9D22-482C-ADB6-1C5E26160E1A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0FC7FAD8-9D22-482C-ADB6-1C5E26160E1A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Currency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Currency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Currency</string>
+			<key>timeStartedRecording</key>
+			<real>571165738.30452895</real>
+			<key>timeStoppedRecording</key>
+			<real>571165739.63730097</real>
+			<key>title</key>
+			<string>Build Currency</string>
+			<key>uniqueIdentifier</key>
+			<string>0FC7FAD8-9D22-482C-ADB6-1C5E26160E1A</string>
+		</dict>
+		<key>134F363C-8AD8-4C7E-9989-BEC28B2C4F74</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>134F363C-8AD8-4C7E-9989-BEC28B2C4F74.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Currency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Currency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Currency</string>
+			<key>timeStartedRecording</key>
+			<real>571165751.00662601</real>
+			<key>timeStoppedRecording</key>
+			<real>571165755.14590299</real>
+			<key>title</key>
+			<string>Build Currency</string>
+			<key>uniqueIdentifier</key>
+			<string>134F363C-8AD8-4C7E-9989-BEC28B2C4F74</string>
+		</dict>
+		<key>260CC0F6-849C-4ECD-B176-BDCAFC1367B9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>260CC0F6-849C-4ECD-B176-BDCAFC1367B9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Currency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Currency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Currency</string>
+			<key>timeStartedRecording</key>
+			<real>571164065.42492604</real>
+			<key>timeStoppedRecording</key>
+			<real>571164069.01704001</real>
+			<key>title</key>
+			<string>Build Currency</string>
+			<key>uniqueIdentifier</key>
+			<string>260CC0F6-849C-4ECD-B176-BDCAFC1367B9</string>
+		</dict>
+		<key>27923BC6-B0F9-419C-9E94-FEE69B38CC9C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>27923BC6-B0F9-419C-9E94-FEE69B38CC9C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Currency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Currency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Currency</string>
+			<key>timeStartedRecording</key>
+			<real>571165700.63396502</real>
+			<key>timeStoppedRecording</key>
+			<real>571165701.89580905</real>
+			<key>title</key>
+			<string>Build Currency</string>
+			<key>uniqueIdentifier</key>
+			<string>27923BC6-B0F9-419C-9E94-FEE69B38CC9C</string>
+		</dict>
+		<key>32EBBA59-B813-44D8-AA01-28E4CAD0E2FE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>32EBBA59-B813-44D8-AA01-28E4CAD0E2FE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Currency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Currency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Currency</string>
+			<key>timeStartedRecording</key>
+			<real>571165552.994151</real>
+			<key>timeStoppedRecording</key>
+			<real>571165557.25537705</real>
+			<key>title</key>
+			<string>Build Currency</string>
+			<key>uniqueIdentifier</key>
+			<string>32EBBA59-B813-44D8-AA01-28E4CAD0E2FE</string>
+		</dict>
+		<key>567BA10D-7850-4708-A647-6343BFCF46A3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>567BA10D-7850-4708-A647-6343BFCF46A3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Currency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Currency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Currency</string>
+			<key>timeStartedRecording</key>
+			<real>571165541.14379895</real>
+			<key>timeStoppedRecording</key>
+			<real>571165545.79838097</real>
+			<key>title</key>
+			<string>Build Currency</string>
+			<key>uniqueIdentifier</key>
+			<string>567BA10D-7850-4708-A647-6343BFCF46A3</string>
+		</dict>
+		<key>60F8733B-C147-42D9-89AE-BCC775960C3E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>60F8733B-C147-42D9-89AE-BCC775960C3E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Currency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Currency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Currency</string>
+			<key>timeStartedRecording</key>
+			<real>571165476.21174002</real>
+			<key>timeStoppedRecording</key>
+			<real>571165484.62036598</real>
+			<key>title</key>
+			<string>Build Currency</string>
+			<key>uniqueIdentifier</key>
+			<string>60F8733B-C147-42D9-89AE-BCC775960C3E</string>
+		</dict>
+		<key>77D569CB-6BE3-4949-BABB-72C1381C7C37</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>77D569CB-6BE3-4949-BABB-72C1381C7C37.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Currency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Currency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Currency</string>
+			<key>timeStartedRecording</key>
+			<real>571165710.421929</real>
+			<key>timeStoppedRecording</key>
+			<real>571165716.44769394</real>
+			<key>title</key>
+			<string>Build Currency</string>
+			<key>uniqueIdentifier</key>
+			<string>77D569CB-6BE3-4949-BABB-72C1381C7C37</string>
+		</dict>
+		<key>B00CDE6A-E381-4402-A09C-8C2B0E64EF93</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B00CDE6A-E381-4402-A09C-8C2B0E64EF93.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Currency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Currency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Currency</string>
+			<key>timeStartedRecording</key>
+			<real>571165680.65013504</real>
+			<key>timeStoppedRecording</key>
+			<real>571165681.61773205</real>
+			<key>title</key>
+			<string>Build Currency</string>
+			<key>uniqueIdentifier</key>
+			<string>B00CDE6A-E381-4402-A09C-8C2B0E64EF93</string>
+		</dict>
+		<key>BFE84055-229A-4266-B080-C38B79C3409E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BFE84055-229A-4266-B080-C38B79C3409E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Currency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Currency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Currency</string>
+			<key>timeStartedRecording</key>
+			<real>571164963.45662105</real>
+			<key>timeStoppedRecording</key>
+			<real>571164976.59437299</real>
+			<key>title</key>
+			<string>Build Currency</string>
+			<key>uniqueIdentifier</key>
+			<string>BFE84055-229A-4266-B080-C38B79C3409E</string>
+		</dict>
+		<key>EE7B9826-D580-4359-8F4F-77E721EE7B66</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EE7B9826-D580-4359-8F4F-77E721EE7B66.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Currency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Currency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Currency</string>
+			<key>timeStartedRecording</key>
+			<real>571165509.17651296</real>
+			<key>timeStoppedRecording</key>
+			<real>571165509.628016</real>
+			<key>title</key>
+			<string>Build Currency</string>
+			<key>uniqueIdentifier</key>
+			<string>EE7B9826-D580-4359-8F4F-77E721EE7B66</string>
+		</dict>
+		<key>FACCAEE2-ED2C-43FB-892E-A99C3C9C27C5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FACCAEE2-ED2C-43FB-892E-A99C3C9C27C5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Currency project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Currency</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Currency</string>
+			<key>timeStartedRecording</key>
+			<real>571165860.07642806</real>
+			<key>timeStoppedRecording</key>
+			<real>571165863.10229099</real>
+			<key>title</key>
+			<string>Build Currency</string>
+			<key>uniqueIdentifier</key>
+			<string>FACCAEE2-ED2C-43FB-892E-A99C3C9C27C5</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

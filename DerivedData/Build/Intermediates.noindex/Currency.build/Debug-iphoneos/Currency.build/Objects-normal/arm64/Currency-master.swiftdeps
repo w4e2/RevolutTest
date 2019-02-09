@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "ba08760cdf7ae5142e47fd50f4e67a43"
+build_time: [1549472951, 123717000]
+inputs:
+  "/Volumes/USER/Users/williamnabechima/Documents/DayTeam/Currency/Currency/CurrencyTableView.swift": [1549472880, 0]
+  "/Volumes/USER/Users/williamnabechima/Documents/DayTeam/Currency/Currency/ViewController.swift": [1549472951, 0]
+  "/Volumes/USER/Users/williamnabechima/Documents/DayTeam/Currency/Currency/CurrencyTableViewCell.swift": [1549472880, 0]
+  "/Volumes/USER/Users/williamnabechima/Documents/DayTeam/Currency/Currency/AppDelegate.swift": [1549472163, 0]

@@ -1,0 +1,457 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CurrencyTableView"
+provides-nominal:
+- "8Currency0A9TableViewC"
+provides-member:
+- ["8Currency0A9TableViewC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- "CurrencyTableView"
+- !private "CurrencyTableViewCell"
+- !private "FloatLiteralType"
+- "IndexPath"
+- !private "IntegerLiteralType"
+- "UITableView"
+depends-member:
+- !private ["SK", "init"]
+- !private ["So15CALayerDelegateP", "IndexPath"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "beginUpdates"]
+- !private ["So15CALayerDelegateP", "cellForRow"]
+- !private ["So15CALayerDelegateP", "customizeDeSelect"]
+- !private ["So15CALayerDelegateP", "customizeSelected"]
+- !private ["So15CALayerDelegateP", "endUpdates"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "moveRow"]
+- !private ["So15CALayerDelegateP", "scrollToRow"]
+- !private ["s7CVarArgP", "IndexPath"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "beginUpdates"]
+- !private ["s7CVarArgP", "cellForRow"]
+- !private ["s7CVarArgP", "customizeDeSelect"]
+- !private ["s7CVarArgP", "customizeSelected"]
+- !private ["s7CVarArgP", "endUpdates"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "moveRow"]
+- !private ["s7CVarArgP", "scrollToRow"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["8Currency0A9TableViewC", "CurrencyTableViewCell"]
+- ["8Currency0A9TableViewC", "IndexPath"]
+- !private ["8Currency0A9TableViewC", "beginUpdates"]
+- !private ["8Currency0A9TableViewC", "cellForRow"]
+- !private ["8Currency0A9TableViewC", "endUpdates"]
+- ["8Currency0A9TableViewC", "init"]
+- !private ["8Currency0A9TableViewC", "moveRow"]
+- !private ["8Currency0A9TableViewC", "scrollToRow"]
+- ["8Currency0A9TableViewC", "select"]
+- !private ["8Currency0A13TableViewCellC", "customizeDeSelect"]
+- !private ["8Currency0A13TableViewCellC", "customizeSelected"]
+- !private ["s28CustomDebugStringConvertibleP", "IndexPath"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "beginUpdates"]
+- !private ["s28CustomDebugStringConvertibleP", "cellForRow"]
+- !private ["s28CustomDebugStringConvertibleP", "customizeDeSelect"]
+- !private ["s28CustomDebugStringConvertibleP", "customizeSelected"]
+- !private ["s28CustomDebugStringConvertibleP", "endUpdates"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "moveRow"]
+- !private ["s28CustomDebugStringConvertibleP", "scrollToRow"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "IndexPath"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "beginUpdates"]
+- !private ["s23CustomStringConvertibleP", "cellForRow"]
+- !private ["s23CustomStringConvertibleP", "customizeDeSelect"]
+- !private ["s23CustomStringConvertibleP", "customizeSelected"]
+- !private ["s23CustomStringConvertibleP", "endUpdates"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "moveRow"]
+- !private ["s23CustomStringConvertibleP", "scrollToRow"]
+- !private ["Se", "init"]
+- !private ["SE", "init"]
+- !private ["SQ", "IndexPath"]
+- ["SQ", ""]
+- !private ["SQ", "beginUpdates"]
+- !private ["SQ", "cellForRow"]
+- !private ["SQ", "customizeDeSelect"]
+- !private ["SQ", "customizeSelected"]
+- !private ["SQ", "endUpdates"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "moveRow"]
+- !private ["SQ", "scrollToRow"]
+- !private ["SQ", "top"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["SH", "IndexPath"]
+- ["SH", ""]
+- !private ["SH", "beginUpdates"]
+- !private ["SH", "cellForRow"]
+- !private ["SH", "customizeDeSelect"]
+- !private ["SH", "customizeSelected"]
+- !private ["SH", "endUpdates"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "moveRow"]
+- !private ["SH", "scrollToRow"]
+- !private ["SH", "top"]
+- !private ["10Foundation9IndexPathV", "init"]
+- !private ["SM", "init"]
+- !private ["So8NSCodingP", "IndexPath"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "beginUpdates"]
+- !private ["So8NSCodingP", "cellForRow"]
+- !private ["So8NSCodingP", "customizeDeSelect"]
+- !private ["So8NSCodingP", "customizeSelected"]
+- !private ["So8NSCodingP", "endUpdates"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "moveRow"]
+- !private ["So8NSCodingP", "scrollToRow"]
+- !private ["So8NSObjectC", "CurrencyTableViewCell"]
+- ["So8NSObjectC", "IndexPath"]
+- !private ["So8NSObjectC", "beginUpdates"]
+- !private ["So8NSObjectC", "cellForRow"]
+- !private ["So8NSObjectC", "customizeDeSelect"]
+- !private ["So8NSObjectC", "customizeSelected"]
+- !private ["So8NSObjectC", "endUpdates"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "moveRow"]
+- !private ["So8NSObjectC", "scrollToRow"]
+- ["So8NSObjectC", "select"]
+- !private ["So8NSObjectP", "IndexPath"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "beginUpdates"]
+- !private ["So8NSObjectP", "cellForRow"]
+- !private ["So8NSObjectP", "customizeDeSelect"]
+- !private ["So8NSObjectP", "customizeSelected"]
+- !private ["So8NSObjectP", "endUpdates"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "moveRow"]
+- !private ["So8NSObjectP", "scrollToRow"]
+- !private ["Sk", "init"]
+- !private ["SY", "top"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["So25UITableViewScrollPositionV", "top"]
+- !private ["ST", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "IndexPath"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "beginUpdates"]
+- !private ["So29UIAccessibilityIdentificationP", "cellForRow"]
+- !private ["So29UIAccessibilityIdentificationP", "customizeDeSelect"]
+- !private ["So29UIAccessibilityIdentificationP", "customizeSelected"]
+- !private ["So29UIAccessibilityIdentificationP", "endUpdates"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "moveRow"]
+- !private ["So29UIAccessibilityIdentificationP", "scrollToRow"]
+- !private ["So12UIAppearanceP", "IndexPath"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "beginUpdates"]
+- !private ["So12UIAppearanceP", "cellForRow"]
+- !private ["So12UIAppearanceP", "customizeDeSelect"]
+- !private ["So12UIAppearanceP", "customizeSelected"]
+- !private ["So12UIAppearanceP", "endUpdates"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "moveRow"]
+- !private ["So12UIAppearanceP", "scrollToRow"]
+- !private ["So21UIAppearanceContainerP", "IndexPath"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "beginUpdates"]
+- !private ["So21UIAppearanceContainerP", "cellForRow"]
+- !private ["So21UIAppearanceContainerP", "customizeDeSelect"]
+- !private ["So21UIAppearanceContainerP", "customizeSelected"]
+- !private ["So21UIAppearanceContainerP", "endUpdates"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "moveRow"]
+- !private ["So21UIAppearanceContainerP", "scrollToRow"]
+- !private ["So17UICoordinateSpaceP", "IndexPath"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "beginUpdates"]
+- !private ["So17UICoordinateSpaceP", "cellForRow"]
+- !private ["So17UICoordinateSpaceP", "customizeDeSelect"]
+- !private ["So17UICoordinateSpaceP", "customizeSelected"]
+- !private ["So17UICoordinateSpaceP", "endUpdates"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "moveRow"]
+- !private ["So17UICoordinateSpaceP", "scrollToRow"]
+- !private ["So23UIDataSourceTranslatingP", "IndexPath"]
+- ["So23UIDataSourceTranslatingP", ""]
+- !private ["So23UIDataSourceTranslatingP", "beginUpdates"]
+- !private ["So23UIDataSourceTranslatingP", "cellForRow"]
+- !private ["So23UIDataSourceTranslatingP", "endUpdates"]
+- !private ["So23UIDataSourceTranslatingP", "init"]
+- !private ["So23UIDataSourceTranslatingP", "init"]
+- !private ["So23UIDataSourceTranslatingP", "moveRow"]
+- !private ["So23UIDataSourceTranslatingP", "scrollToRow"]
+- !private ["So13UIDynamicItemP", "IndexPath"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "beginUpdates"]
+- !private ["So13UIDynamicItemP", "cellForRow"]
+- !private ["So13UIDynamicItemP", "customizeDeSelect"]
+- !private ["So13UIDynamicItemP", "customizeSelected"]
+- !private ["So13UIDynamicItemP", "endUpdates"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "moveRow"]
+- !private ["So13UIDynamicItemP", "scrollToRow"]
+- !private ["So18UIFocusEnvironmentP", "IndexPath"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "beginUpdates"]
+- !private ["So18UIFocusEnvironmentP", "cellForRow"]
+- !private ["So18UIFocusEnvironmentP", "customizeDeSelect"]
+- !private ["So18UIFocusEnvironmentP", "customizeSelected"]
+- !private ["So18UIFocusEnvironmentP", "endUpdates"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "moveRow"]
+- !private ["So18UIFocusEnvironmentP", "scrollToRow"]
+- !private ["So11UIFocusItemP", "IndexPath"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "beginUpdates"]
+- !private ["So11UIFocusItemP", "cellForRow"]
+- !private ["So11UIFocusItemP", "customizeDeSelect"]
+- !private ["So11UIFocusItemP", "customizeSelected"]
+- !private ["So11UIFocusItemP", "endUpdates"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "moveRow"]
+- !private ["So11UIFocusItemP", "scrollToRow"]
+- !private ["So20UIFocusItemContainerP", "IndexPath"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "beginUpdates"]
+- !private ["So20UIFocusItemContainerP", "cellForRow"]
+- !private ["So20UIFocusItemContainerP", "customizeDeSelect"]
+- !private ["So20UIFocusItemContainerP", "customizeSelected"]
+- !private ["So20UIFocusItemContainerP", "endUpdates"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "moveRow"]
+- !private ["So20UIFocusItemContainerP", "scrollToRow"]
+- !private ["So30UIFocusItemScrollableContainerP", "IndexPath"]
+- ["So30UIFocusItemScrollableContainerP", ""]
+- !private ["So30UIFocusItemScrollableContainerP", "beginUpdates"]
+- !private ["So30UIFocusItemScrollableContainerP", "cellForRow"]
+- !private ["So30UIFocusItemScrollableContainerP", "endUpdates"]
+- !private ["So30UIFocusItemScrollableContainerP", "init"]
+- !private ["So30UIFocusItemScrollableContainerP", "init"]
+- !private ["So30UIFocusItemScrollableContainerP", "moveRow"]
+- !private ["So30UIFocusItemScrollableContainerP", "scrollToRow"]
+- !private ["So27UIGestureRecognizerDelegateP", "customizeDeSelect"]
+- !private ["So27UIGestureRecognizerDelegateP", "customizeSelected"]
+- !private ["So30UIPasteConfigurationSupportingP", "IndexPath"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "beginUpdates"]
+- !private ["So30UIPasteConfigurationSupportingP", "cellForRow"]
+- !private ["So30UIPasteConfigurationSupportingP", "customizeDeSelect"]
+- !private ["So30UIPasteConfigurationSupportingP", "customizeSelected"]
+- !private ["So30UIPasteConfigurationSupportingP", "endUpdates"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "moveRow"]
+- !private ["So30UIPasteConfigurationSupportingP", "scrollToRow"]
+- !private ["So11UIResponderC", "CurrencyTableViewCell"]
+- ["So11UIResponderC", "IndexPath"]
+- !private ["So11UIResponderC", "beginUpdates"]
+- !private ["So11UIResponderC", "cellForRow"]
+- !private ["So11UIResponderC", "customizeDeSelect"]
+- !private ["So11UIResponderC", "customizeSelected"]
+- !private ["So11UIResponderC", "endUpdates"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "moveRow"]
+- !private ["So11UIResponderC", "scrollToRow"]
+- ["So11UIResponderC", "select"]
+- !private ["So30UIResponderStandardEditActionsP", "IndexPath"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "beginUpdates"]
+- !private ["So30UIResponderStandardEditActionsP", "cellForRow"]
+- !private ["So30UIResponderStandardEditActionsP", "customizeDeSelect"]
+- !private ["So30UIResponderStandardEditActionsP", "customizeSelected"]
+- !private ["So30UIResponderStandardEditActionsP", "endUpdates"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "moveRow"]
+- !private ["So30UIResponderStandardEditActionsP", "scrollToRow"]
+- !private ["So12UIScrollViewC", "CurrencyTableViewCell"]
+- ["So12UIScrollViewC", "IndexPath"]
+- !private ["So12UIScrollViewC", "beginUpdates"]
+- !private ["So12UIScrollViewC", "cellForRow"]
+- !private ["So12UIScrollViewC", "endUpdates"]
+- ["So12UIScrollViewC", "init"]
+- !private ["So12UIScrollViewC", "init"]
+- !private ["So12UIScrollViewC", "moveRow"]
+- !private ["So12UIScrollViewC", "scrollToRow"]
+- ["So12UIScrollViewC", "select"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "IndexPath"]
+- ["So35UISpringLoadedInteractionSupportingP", ""]
+- !private ["So35UISpringLoadedInteractionSupportingP", "beginUpdates"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "cellForRow"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "endUpdates"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "moveRow"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "scrollToRow"]
+- !private ["So11UITableViewC", "CurrencyTableViewCell"]
+- ["So11UITableViewC", "IndexPath"]
+- ["So11UITableViewC", ""]
+- !private ["So11UITableViewC", "beginUpdates"]
+- !private ["So11UITableViewC", "cellForRow"]
+- !private ["So11UITableViewC", "endUpdates"]
+- ["So11UITableViewC", "init"]
+- !private ["So11UITableViewC", "init"]
+- !private ["So11UITableViewC", "moveRow"]
+- !private ["So11UITableViewC", "scrollToRow"]
+- ["So11UITableViewC", "select"]
+- !private ["So15UITableViewCellC", "customizeDeSelect"]
+- !private ["So15UITableViewCellC", "customizeSelected"]
+- !private ["So18UITraitEnvironmentP", "IndexPath"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "beginUpdates"]
+- !private ["So18UITraitEnvironmentP", "cellForRow"]
+- !private ["So18UITraitEnvironmentP", "customizeDeSelect"]
+- !private ["So18UITraitEnvironmentP", "customizeSelected"]
+- !private ["So18UITraitEnvironmentP", "endUpdates"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "moveRow"]
+- !private ["So18UITraitEnvironmentP", "scrollToRow"]
+- !private ["So23UIUserActivityRestoringP", "IndexPath"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "beginUpdates"]
+- !private ["So23UIUserActivityRestoringP", "cellForRow"]
+- !private ["So23UIUserActivityRestoringP", "customizeDeSelect"]
+- !private ["So23UIUserActivityRestoringP", "customizeSelected"]
+- !private ["So23UIUserActivityRestoringP", "endUpdates"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "moveRow"]
+- !private ["So23UIUserActivityRestoringP", "scrollToRow"]
+- !private ["So6UIViewC", "CurrencyTableViewCell"]
+- ["So6UIViewC", "IndexPath"]
+- !private ["So6UIViewC", "beginUpdates"]
+- !private ["So6UIViewC", "cellForRow"]
+- !private ["So6UIViewC", "customizeDeSelect"]
+- !private ["So6UIViewC", "customizeSelected"]
+- !private ["So6UIViewC", "endUpdates"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "moveRow"]
+- !private ["So6UIViewC", "scrollToRow"]
+- ["So6UIViewC", "select"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "IndexPath"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "beginUpdates"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "cellForRow"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "customizeDeSelect"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "customizeSelected"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "endUpdates"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "moveRow"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "scrollToRow"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "IndexPath"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "beginUpdates"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cellForRow"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "customizeDeSelect"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "customizeSelected"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "endUpdates"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "moveRow"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scrollToRow"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- !private "SK"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "8Currency0A9TableViewC"
+- !private "8Currency0A13TableViewCellC"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "SH"
+- !private "10Foundation9IndexPathV"
+- !private "SM"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sk"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "So25UITableViewScrollPositionV"
+- !private "ST"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So17UICoordinateSpaceP"
+- "So23UIDataSourceTranslatingP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So30UIFocusItemScrollableContainerP"
+- !private "So27UIGestureRecognizerDelegateP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So12UIScrollViewC"
+- "So35UISpringLoadedInteractionSupportingP"
+- "So11UITableViewC"
+- !private "So15UITableViewCellC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Volumes/USER/Users/williamnabechima/Documents/DayTeam/Currency/DerivedData/Build/Products/Debug-iphoneos/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Modules/IQKeyboardManagerSwift.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Volumes/USER/Users/williamnabechima/Documents/DayTeam/Currency/DerivedData/Build/Products/Debug-iphoneos/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-umbrella.h"
+- "/Volumes/USER/Users/williamnabechima/Documents/DayTeam/Currency/DerivedData/Build/Products/Debug-iphoneos/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-Swift.h"
+- "/Volumes/USER/Users/williamnabechima/Documents/DayTeam/Currency/DerivedData/Build/Products/Debug-iphoneos/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "3ea0b7432d86d00ea009e5e699c585e2"

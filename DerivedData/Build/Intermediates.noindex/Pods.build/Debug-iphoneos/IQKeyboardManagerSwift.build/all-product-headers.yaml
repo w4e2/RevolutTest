@@ -1,0 +1,60 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Volumes/USER/Users/williamnabechima/Documents/DayTeam/Currency/DerivedData/Build/Products/Debug-iphoneos/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "IQKeyboardManagerSwift-Swift.h",
+          'external-contents': "/Volumes/USER/Users/williamnabechima/Documents/DayTeam/Currency/DerivedData/Build/Products/Debug-iphoneos/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardManagerSwift-umbrella.h",
+          'external-contents': "/Volumes/USER/Users/williamnabechima/Documents/DayTeam/Currency/Pods/Target Support Files/IQKeyboardManagerSwift/IQKeyboardManagerSwift-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/USER/Users/williamnabechima/Documents/DayTeam/Currency/DerivedData/Build/Products/Debug-iphoneos/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Volumes/USER/Users/williamnabechima/Documents/DayTeam/Currency/DerivedData/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/USER/Users/williamnabechima/Documents/DayTeam/Currency/DerivedData/Build/Products/Debug-iphoneos/Pods_Currency.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Currency-umbrella.h",
+          'external-contents': "/Volumes/USER/Users/williamnabechima/Documents/DayTeam/Currency/Pods/Target Support Files/Pods-Currency/Pods-Currency-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Currency-Swift.h",
+          'external-contents': "/Volumes/USER/Users/williamnabechima/Documents/DayTeam/Currency/DerivedData/Build/Products/Debug-iphoneos/Pods_Currency.framework/Headers/Pods_Currency-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/USER/Users/williamnabechima/Documents/DayTeam/Currency/DerivedData/Build/Products/Debug-iphoneos/Pods_Currency.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Volumes/USER/Users/williamnabechima/Documents/DayTeam/Currency/DerivedData/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-Currency.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
